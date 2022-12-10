@@ -1,9 +1,9 @@
 .item {
-  color:aquamarine;
+  color: rgb(0, 0, 0);
 }
 
 .item img {
-  width:75px;
-  height:75px;
-  border-radius:50%; 
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
 }

@@ -17,12 +17,12 @@ const MyPosts = () => {
         New Post
       </div>
       <div>
+        <Post message='How are you?' />
+        <Post message="It's my first post" />
+        {/* <Post />
         <Post />
         <Post />
-        <Post />
-        <Post />
-        <Post />
-        <Post />
+        <Post /> */}
       </div>
     </div>
   )
